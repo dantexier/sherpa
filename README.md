@@ -13,10 +13,6 @@ The base code is of @pudo, and, is at: https://github.com/pudo/hhba-scraping
 
 # Problems
 
-When I do several connections, appears a problem "max retries exceeded", so, 
-the scraping I have to do it for parts.
+The letters A, I, M, S, V, have problems with out script. The messages is "lxml.etree.SerialisationError: IO_ENCODER"
 
-The error is:
-requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.sherpa.ac.uk', port=80): 
-Max retries exceeded with url: /romeo/journalbrowse.php?la=en&fIDnum=%7C&mode=simple 
-(Caused by <class 'socket.gaierror'>: [Errno -2] Name or service not known)
+So, you can get info with script model "table_each_letter_A.py"
