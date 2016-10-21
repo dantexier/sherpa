@@ -16,3 +16,5 @@ The base code is of @pudo, and, is at: https://github.com/pudo/hhba-scraping
 The letters A, I, M, S, V, have problems with out script. The messages is "lxml.etree.SerialisationError: IO_ENCODER"
 
 So, you can get info with script model "table_each_letter_A.py"
+
+Otra líneas
